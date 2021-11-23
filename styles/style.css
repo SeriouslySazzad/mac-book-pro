@@ -1,0 +1,26 @@
+button {
+    padding: 5px;
+}
+
+button:hover {
+    color: rgb(255, 255, 255);
+    background-color: black;
+    border: 2px solid rgb(44, 41, 41);
+}
+
+table {
+    font-weight: 700;
+    font-size: 18px;
+}
+.total-price{
+    border-top: 2px solid black;
+}
+
+.code-submit-button, .code-submit-button:hover {
+    padding: 0;
+    width: 70px;
+    color: #fff;
+    background-color:red;
+    padding-bottom: 2px;
+    border-radius: 5px;
+}
